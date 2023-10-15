@@ -39,5 +39,3 @@ plt.xlabel('x (незалежна змінна)')
 plt.ylabel('y (залежна змінна)')
 plt.legend()
 plt.show()
-
-
