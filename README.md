@@ -1,1 +1,1 @@
-При роботі використовувала  numpy(np), matplotlib.pyplot(plt), LinearRegression з "sklearn.linear_model", Axes3D з "mpl_toolkits.mplot3d" 
+Виконувала 13 варіант. При роботі використовувала  numpy(np), matplotlib.pyplot(plt), LinearRegression з "sklearn.linear_model", Axes3D з "mpl_toolkits.mplot3d" 
